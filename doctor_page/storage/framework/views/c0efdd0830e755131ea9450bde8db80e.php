@@ -1,0 +1,1 @@
+<script src="<?php echo e(asset('script.js')); ?>"></script><?php /**PATH C:\xampp\htdocs\doctor_page\resources\views/Doctor/Layout/doc/footer.blade.php ENDPATH**/ ?>

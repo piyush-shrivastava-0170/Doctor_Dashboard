@@ -1,0 +1,16 @@
+body{
+    
+background-image: url(https://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur02.jpg);
+background-size: cover;
+}
+.card{
+    background-color: transparent;
+    
+    margin-top: 5em;
+    margin-left: 30px;
+    margin-right: 5em;
+
+}
+.mb-3{
+    text-size-adjust: 10px;
+}
